@@ -1,6 +1,6 @@
 # DiscordThemes
 
-![DiscordThemes Banner](https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/64120d6d668681c43e2e0c4b_XrBhOGEicnFpk_zD25dGdk4HiTglV9uUAk1zkZVGwz7Wwqduz3Bv2Kw7SULL_dkEdizf_V9poErdSMKSSRXW-EH994ET8_yi3iSWy0w6_3OHDbyAeJKFN7u938ctE5qo03d9FOVgr3-ELemnflkMoBg.png)
+![DiscordThemes Banner](https://i.imgur.com/1hC1AAo.png)
 
 Welcome to DiscordThemes! This repository hosts a collection of themes for Discord, compatible with Discord, Vencord, and BetterDiscord.
 
@@ -15,13 +15,13 @@ Welcome to DiscordThemes! This repository hosts a collection of themes for Disco
 
 ### Catgirls
 
-![NightMode++ Preview](images/nightmode_preview.png)
+![NightMode++ Preview](https://i.imgur.com/tn4M3SP.png)
 
 Description: A sleek and dark theme optimized for nighttime browsing.
 
-### Anime
+### Jujutsu Kaisen
 
-![NeonGlow Preview](images/neonglow_preview.png)
+![NeonGlow Preview](https://i.imgur.com/e1VXAyg.png)
 
 Description: Add a vibrant neon glow to your Discord interface with this electrifying theme.
 
