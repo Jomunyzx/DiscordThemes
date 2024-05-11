@@ -15,21 +15,21 @@ Welcome to DiscordThemes! This repository hosts a collection of themes for Disco
 
 ### Catgirls
 
-![NightMode++ Preview](https://i.imgur.com/tn4M3SP.png)
+![UwU V1 Preview](https://i.imgur.com/tn4M3SP.png)
 
-Description: A sleek and dark theme optimized for nighttime browsing.
+Description: Ultimate UwU Theme V2 made for Discord degenerates <3
 
 ### Jujutsu Kaisen
 
-![NeonGlow Preview](https://i.imgur.com/e1VXAyg.png)
+![Geto V1 Preview](https://i.imgur.com/sFbS0MI.png)
 
-Description: Add a vibrant neon glow to your Discord interface with this electrifying theme.
+Description: Gojo theme for the degenerate discord users :3
 
-#### Installation
+## Installation
 1. Download any `.theme.css` file from the `repo` folders.
 2. Install [Vencord](https://vencord.dev/download/) or [BetterDiscord](https://betterdiscord.app).
-3.1 Put the `.theme.css` to `C:\Users\Username\AppData\Roaming\Vencord\themes` for Vencord.
-3.2 Put the `.theme.css` to `C:\Users\Username\AppData\Roaming\BetterDiscord\themes` for BetterDiscord.
+3. Vencord - Put the `.theme.css` to `C:\Users\Username\AppData\Roaming\Vencord\themes`.
+3. BetterDiscord - Put the `.theme.css` to `C:\Users\Username\AppData\Roaming\BetterDiscord\themes`.
 4. Open `themes` tab in Discord settings and turn on your theme.
 
 ## Support
