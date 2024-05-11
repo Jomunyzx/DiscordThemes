@@ -1,0 +1,68 @@
+/**
+ * @name Satoru Gojo V1
+ * @author H4ndshake
+ * @version 1.0.1
+ * @description Gojo theme for the degenerate discord users :3
+ * @source https://github.com/Jomunyzx/DiscordThemes
+ * @authorId 757284103128219889
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/DvEac6C.jpeg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/PtoTREx.png');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 30px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/kW12WM0.png');
+  --home-button-size: contain;
+  --home-button-position: center;
+  --serverlist-brightness: 0.6;
+  --left-brightness: 0.6;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --overlay-brightness: 0.3;
+  --gradient-primary: 152,142,139;
+  --gradient-secondary: 84,77,59;
+  --link-colour: #544D3B;
+  --scrollbar-colour: rgb(60,108,113,1);
+  --gradient-direction: 180deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Kanit;
+  --window-padding: 15px;
+  --window-roundness: 5px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 12px;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
