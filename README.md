@@ -36,13 +36,9 @@ Description: Add a vibrant neon glow to your Discord interface with this electri
 1. Download the `neonglow.theme.css` file from the `themes` folder.
 2. Follow the same installation steps as for NightMode++.
 
-## Contribution
-
-Contributions are welcome! If you have a theme you'd like to share, feel free to submit a pull request.
-
 ## Support
 
-For any questions or issues, please open an [issue](https://github.com/yourusername/DiscordThemes/issues) on GitHub.
+For any questions or issues, please open an [issue](https://github.com/Jomunyzx/DiscordThemes/issues) on GitHub.
 
 ## License
 
