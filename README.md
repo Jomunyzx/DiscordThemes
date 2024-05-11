@@ -2,7 +2,7 @@
 
 ![DiscordThemes Banner](https://i.imgur.com/1hC1AAo.png)
 
-Welcome to DiscordThemes! This repository hosts a collection of themes for Discord, compatible with Discord, Vencord, and BetterDiscord.
+<center>Welcome to DiscordThemes! This repository hosts a collection of themes for Discord, compatible with Discord, Vencord, and BetterDiscord.</center>
 
 ## Features
 
