@@ -1,6 +1,6 @@
 # DiscordThemes
 
-![DiscordThemes Banner](images/discord_themes_banner.png)
+![DiscordThemes Banner](https://assets-global.website-files.com/5f9072399b2640f14d6a2bf4/64120d6d668681c43e2e0c4b_XrBhOGEicnFpk_zD25dGdk4HiTglV9uUAk1zkZVGwz7Wwqduz3Bv2Kw7SULL_dkEdizf_V9poErdSMKSSRXW-EH994ET8_yi3iSWy0w6_3OHDbyAeJKFN7u938ctE5qo03d9FOVgr3-ELemnflkMoBg.png)
 
 Welcome to DiscordThemes! This repository hosts a collection of themes for Discord, compatible with Discord, Vencord, and BetterDiscord.
 
@@ -13,28 +13,24 @@ Welcome to DiscordThemes! This repository hosts a collection of themes for Disco
 
 ## Themes
 
-### Theme 1: NightMode++
+### Catgirls
 
 ![NightMode++ Preview](images/nightmode_preview.png)
 
 Description: A sleek and dark theme optimized for nighttime browsing.
 
-#### Installation
-1. Download the `nightmode++.theme.css` file from the `themes` folder.
-2. Open your Discord settings.
-3. Navigate to the "Themes" section.
-4. Click on "Open Theme Folder" and place the downloaded file in this folder.
-5. Enable the NightMode++ theme in your Discord settings.
-
-### Theme 2: NeonGlow
+### Anime
 
 ![NeonGlow Preview](images/neonglow_preview.png)
 
 Description: Add a vibrant neon glow to your Discord interface with this electrifying theme.
 
 #### Installation
-1. Download the `neonglow.theme.css` file from the `themes` folder.
-2. Follow the same installation steps as for NightMode++.
+1. Download any `.theme.css` file from the `repo` folders.
+2. Install [Vencord](https://vencord.dev/download/) or [BetterDiscord](https://betterdiscord.app).
+3.1 Put the `.theme.css` to `C:\Users\Username\AppData\Roaming\Vencord\themes` for Vencord.
+3.2 Put the `.theme.css` to `C:\Users\Username\AppData\Roaming\BetterDiscord\themes` for BetterDiscord.
+4. Open `themes` tab in Discord settings and turn on your theme.
 
 ## Support
 
